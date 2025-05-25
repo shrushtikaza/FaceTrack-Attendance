@@ -7,4 +7,4 @@ Image_Attendance/
 attnd.py
 face/
 firebase_config.py
-.DS_Store
+.DS_Store/
