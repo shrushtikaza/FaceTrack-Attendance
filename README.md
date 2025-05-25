@@ -17,5 +17,5 @@ A secure and smart face recognition-based attendance system built using Python, 
 - Python
 - OpenCV
 - face_recognition
-- Firebase (Firestore & Storage)
+- Firebase (Firestore)
 - `firebase-admin` Python SDK
